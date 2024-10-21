@@ -12,8 +12,8 @@ Based on various market surveys, the consulting firm has gathered a large datase
    
 ###### 2. Model Implementation 
  
-**** 1) Linear Regression
+***1) Linear Regression
 2) Decision Tree Regressor
 3) Random Forest Regressor
 4) Gradient Boosting Regressor
-5) Support Vector Regressor ****
+5) Support Vector Regressor***
